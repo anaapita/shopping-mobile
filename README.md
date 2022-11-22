@@ -4,10 +4,10 @@ Projeto desenvolvido com as aulas do curso <a href="https://rodolfomori.com.br/d
 # 📷 Telas
 
 <div align="center" >
-  <img src="https://user-images.githubusercontent.com/95833334/203135485-a9642316-9915-4f2c-819c-a06427817478.png" alt="image-mobile-easy-shopping" height="425">
+  <img src="https://user-images.githubusercontent.com/95833334/203135485-a9642316-9915-4f2c-819c-a06427817478.png" alt="image-easy-shopping" height="425">
   
 ## 
-  <img src="https://user-images.githubusercontent.com/95833334/203135545-8cc74ffd-586e-4c4f-a4c6-280c9b3618c7.png" alt="signin" height="425">
+  <img src="https://user-images.githubusercontent.com/95833334/203135545-8cc74ffd-586e-4c4f-a4c6-280c9b3618c7.png" alt="image-mobile-easy-shopping" height="425">
   
 
 </div>
