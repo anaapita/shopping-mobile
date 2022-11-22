@@ -1,5 +1,5 @@
 # Easy Shopping
-Projeto desenvolvido com as aulas do curso <a href="https://rodolfomori.com.br/devclub/">Dev Club</a> aonde desenvolvemos uma página web de uso comercial, e trabalhamos na responsividade da tela para dispositivos móveis. 
+Projeto desenvolvido com as aulas do curso <a href="https://rodolfomori.com.br/devclub/">Dev Club</a> aonde foi desenvolvido uma página web de uso comercial, e trabalhamos na responsividade da tela para dispositivos móveis. 
 
 # 📷 Telas
 
